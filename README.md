@@ -3,15 +3,15 @@ Park Information and Search Web Service
 
 ### Role
 ```
-김태형: Infra, Back-end, Project Manager
+김태형: Infra, Back-end(Server), Project Manager
 
 강지원: Front-end
 
 김가현: Front-end
 
-김민주: DB, Back-end
+김민주: Back-end(DB)
 
-이해민: DB, Back-end, Team Leader
+이해민: Back-end(DB), Team Leader
 ```
 
 ### Technology Stack
